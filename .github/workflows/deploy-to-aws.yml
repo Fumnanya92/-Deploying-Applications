@@ -23,7 +23,7 @@ jobs:
         aws-region: us-west-2
       # Configures AWS credentials from GitHub secrets.
 
-    - name: Deploy to AWS
-      run: |
+  #  - name: Deploy to AWS
+     # run: |
         # Add your deployment script here.
         # For example, using AWS CLI commands to deploy.
